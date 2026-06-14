@@ -230,5 +230,5 @@ Contact
 
 For questions or feedback:
 
-- Email: [manthan.ank@gmail.com](mailto:manthan.ank@gmail.com)
-- GitHub: [manthanank](https://github.com/manthanank)
+- Email: [manthan.ank@gmail.com](mailto: narisettynagasaikoushik@gmail.com@gmail.com)
+- GitHub: [manthanank](https://github.com/saikoush)
