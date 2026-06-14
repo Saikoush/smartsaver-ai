@@ -101,7 +101,7 @@ Installation
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/manthanank/expense-tracker-app.git
+   git clone https://github.com/Saikoush/smartsaver-ai
    cd expense-tracker-app
    ```
 
@@ -228,5 +228,5 @@ Contact
 
 For questions or feedback:
 
-- Email: [narisettynagasaikoushik@gmail.comp@gmail.com](mailto: narisettynagasaikoushik@gmail.com@gmail.com)
+- Email: [narisettynagasaikoushik@gmail.com](mailto: narisettynagasaikoushik@gmail.com)
 - GitHub: [saikoush](https://github.com/saikoush)
